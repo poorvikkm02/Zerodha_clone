@@ -1,16 +1,45 @@
-# React + Vite
+# Zerodha Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Zerodha-inspired trading platform built while learning React. The project also includes live weather data and Bengaluru news using external APIs.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Zerodha-inspired trading interface
+- Stock and trading dashboard UI
+- Live weather data integration
+- Bengaluru news section using a free News API
+- Responsive design
+- External API integration
+- Reusable React components
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- REST APIs
+- Git & GitHub
 
-## Expanding the ESLint configuration
+## 📖 About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built as part of my journey learning React and frontend development.
+
+I recreated a Zerodha-inspired trading interface and extended the application with additional features such as live weather data and Bengaluru news.
+
+The project helped me practice React components, API integration, dynamic data rendering, state management, and responsive UI development.
+
+## 🌦️ Live Weather
+
+The application integrates a weather API to display live weather information.
+
+## 📰 Bengaluru News
+
+The application fetches Bengaluru-related news using a free News API and displays the latest available articles within the application.
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/poorvikkm02/Zerodha_clone.git
